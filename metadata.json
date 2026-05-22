@@ -1,0 +1,6 @@
+{
+  "name": "NOTEVA",
+  "description": "NOTEVA is a premium, ultra-modern notebook application with rich editing, checklist notes, categories, note pinning, offline Room database, dynamic search, auto-save, and gorgeous glassmorphism Material You styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
